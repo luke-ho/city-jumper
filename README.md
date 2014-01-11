@@ -1,7 +1,7 @@
 city-jumper
 ===========
 
-A quick way to look at high resolution photos from a particular city.  Images are shown from Flickr.
+A quick way to look at high resolution photos from a particular city.  Images are shown from flickr.
 
 Access the page at http://luke-ho.github.io/city-jumper/
 
